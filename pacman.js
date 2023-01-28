@@ -13,7 +13,7 @@ class Pacman {
             this.changeAnimation();
         }, 100);
     } 
- 
+  
     moveProcess() {
         this.changeDirectionIfPossible();
         this.moveForwards();
