@@ -19,7 +19,7 @@ let ghostImageLocations = [
     { x: 176, y: 0 },
     { x: 0, y: 121 },
     { x: 176, y: 121 },
-];
+]; 
 
 // Game variables
 let fps = 30;
