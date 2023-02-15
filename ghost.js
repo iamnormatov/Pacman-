@@ -9,7 +9,7 @@ class Ghost {
         imageY,
         imageWidth,
         imageHeight,
-        range
+        range 
     ) {     
         this.x = x;
         this.y = y;
