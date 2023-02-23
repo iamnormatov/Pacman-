@@ -5,7 +5,7 @@ class Ghost {
         width,
         height,
         speed,
-        imageX,
+        imageX, 
         imageY,
         imageWidth,
         imageHeight,
