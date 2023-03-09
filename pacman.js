@@ -11,7 +11,7 @@ class Pacman {
         this.currentFrame = 1;
         setInterval(() => {
             this.changeAnimation();
-        }, 100);
+        }, 100); 
     }   
       
     moveProcess() {
